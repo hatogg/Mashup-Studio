@@ -1,0 +1,8 @@
+build/
+tools/
+keys/
+*.jks
+*.keystore
+android/assets/
+android/build/
+.DS_Store
